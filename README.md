@@ -2,7 +2,7 @@
 ### Dark theme style for Dolphin Emulator
 
 I'll finish this later, but here's a quick rundown of what you need to do:
-- Extract the .zip andopen the folder named Lightsout
+- Extract the .zip and open the folder named Lightsout
 - Copy the file/s (depending on which style you want)
 - Paste the files in documents -> Dolphin Emulator -> Styles
 - Restart the emulator If it was open for it to register

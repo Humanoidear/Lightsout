@@ -6,6 +6,7 @@ I'll finish this later, but here's a quick rundown of what you need to do:
 - Copy the file/s (depending on which style you want)
 - Paste the files in documents -> Dolphin Emulator -> Styles
 - Restart the emulator If it was open for it to register
+- Enter the "config" menu and click on the "interface" tab.
 - Check "Use user custom theme"
 - Select the theme from the new drop-down menu
 

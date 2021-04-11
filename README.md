@@ -31,15 +31,6 @@ Lightsout is a theme (or should I say style) for Dolphin Emulator that brings ey
 <br/>
 <br/>
 
-I'll finish this later, but here's a quick rundown of what you need to do:
-- Extract the .zip and open the folder named Lightsout
-- Copy the file/s (depending on which style you want)
-- Paste the files in documents -> Dolphin Emulator -> Styles
-- Restart the emulator If it was open for it to register
-- Enter the "config" menu and click on the "interface" tab.
-- Check "Use user custom theme"
-- Select the theme from the new drop-down menu
-- 
 ### Relevant info: <br/>
 The download contains two files, a "dark" and a "black" variant, you can add whichever you like to the respective folder (just make sure they're in the correct folder!)
 

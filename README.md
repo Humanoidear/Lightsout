@@ -61,7 +61,7 @@ Hang tight, this won't take long: <br/>
 <br/>
 
 ###### (Linux)
-Unfortunately, custom styles aren't aailable in the Linux version :(
+Unfortunately, custom styles aren't available in the Linux version :(
 
 <br/>
 

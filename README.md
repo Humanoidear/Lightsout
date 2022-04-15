@@ -1,11 +1,11 @@
-![Lightsout logo](https://cdn.discordapp.com/attachments/623088732932931594/830547868221440000/IMG-9792.PNG)
+![Lightsout logo](https://cdn.discordapp.com/attachments/953036832600383599/964562770777473084/text9515.png)
 ## Dark Mode for Dolphin Emulator
 
 ### What is this Lightsout thing about?
-Lightsout is a theme (or should I say style) for Dolphin Emulator that brings eye-pleasing dark mode beauty to the interface, which will make it easier for you to play your favourite Wii/GC games at 5am! Plus, there´s two different dark modes, depending on your gamerness.
+Lightsout is a theme (or should I say style) for Dolphin Emulator that brings eye-pleasing dark mode beauty to the interface, which will make it easier for you to play your favourite Wii/GC games at 5am!
 <br/>
 <br/>
-![Lightsout dark](https://cdn.discordapp.com/attachments/623088732932931594/830524299168317460/IMG-9783.jpg)
+![Lightsout dark](https://cdn.discordapp.com/attachments/953036832600383599/964562770299334767/Asset_354x.png)
 <br/>
 <br/>
 ### System Requirements  <br/>
@@ -26,17 +26,17 @@ Lightsout is a theme (or should I say style) for Dolphin Emulator that brings ey
 <br/>
 <br/>
 
-![Lightsout pitch black](https://cdn.discordapp.com/attachments/623088732932931594/830524297108783134/IMG-9788.jpg)
+![Lightsout pitch black](https://cdn.discordapp.com/attachments/953036832600383599/964561239579721778/Asset_354x.png)
 
 <br/>
 <br/>
 
 ### Relevant info: <br/>
-The download contains two files, a "dark" and a "black" variant, you can add whichever you like to the respective folder (just make sure they're in the correct folder!)
+The olver version (the one inside the "Outdated" folder) contains two files, a "dark" and a "black" variant, you can add whichever you like to the respective folder (just make sure they're in the correct folder!)
 
 <br/>
 
-![Lightsout pitch black](https://cdn.discordapp.com/attachments/623088732932931594/830524289764818994/IMG-9784.PNG)
+![Lightsout pitch black](https://cdn.discordapp.com/attachments/953036832600383599/964555180605603880/unknown.png)
 
 <br/>
 
@@ -54,12 +54,6 @@ Hang tight, this won't take long: <br/>
 ###### (Linux)
 Unfortunately, custom styles aren't available in the Linux version :(
 
-<br/>
-
-![Lightsout dark](https://cdn.discordapp.com/attachments/623088732932931594/830524302453243964/IMG-9775.PNG)
-
-<br/>
-
 ### How to apply: <br/>
 ###### (Windows, Linux and MacOS)
 Here's how you can change the style into your new one: <br/>
@@ -75,6 +69,6 @@ I'm already pretty proud of the theme, so my main concern is fixing any issues t
 
 <br/>
 
-![Lightsout promo](https://cdn.discordapp.com/attachments/623088732932931594/830524283779547206/IMG-9791.jpg)
+![Lightsout promo](https://cdn.discordapp.com/attachments/953036832600383599/964552540425449522/unknown.png)
 
 # And we should be good to go, have fun reliving your favourite games!

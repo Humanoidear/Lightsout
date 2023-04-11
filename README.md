@@ -52,7 +52,8 @@ Hang tight, this won't take long: <br/>
 <br/>
 
 ###### (Linux)
-Unfortunately, custom styles aren't available in the Linux version :(
+Pretty easy to do, just do this:
+Place the file on: ~/.local/share/dolphin-emu/Styles
 
 ### How to apply: <br/>
 ###### (Windows, Linux and MacOS)

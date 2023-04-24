@@ -32,7 +32,7 @@ Lightsout is a theme (or should I say style) for Dolphin Emulator that brings ey
 <br/>
 
 ### Relevant info: <br/>
-The olver version (the one inside the "Outdated" folder) contains two files, a "dark" and a "black" variant, you can add whichever you like to the respective folder (just make sure they're in the correct folder!)
+The older version (the one inside the "Outdated" folder) contains two files, a "dark" and a "black" variant, you can add whichever you like to the respective folder (just make sure they're in the correct folder!)
 
 <br/>
 

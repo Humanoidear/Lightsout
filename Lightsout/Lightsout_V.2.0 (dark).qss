@@ -365,12 +365,11 @@ QToolButton::disabled {
 }
 QToolButton::hover {
 
-	padding-top: 10px;
-	padding-bottom: 10px;
-	background-color: #212121;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-color: #4b4b4b;
 	border-radius: 8px;
 	transition: 0.5s;
-	color: #212121;
 	transition: 0.5s;
 }
 
